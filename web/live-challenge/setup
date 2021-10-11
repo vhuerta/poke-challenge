@@ -1,0 +1,5 @@
+#!/bin/bash
+cp -R ./web/live-challenge/code ~/Desktop/web-challenge
+cd ~/Desktop/web-challenge
+npm i
+npm start
